@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Zen+Loop&display=swap"
+      rel="stylesheet"
+    />
+    <title>About Mridul</title>
+    <link rel="stylesheet" href="aboutmridul.css" />
+    <header class="main_header">
+      <h1 class="header_title">Portfolio</h1>
+      <h2 class="home">
+        <a href="index.html" class="element">HOME</a>
+        <a href="https://forms.gle/YbVEiz46aKXR3Bxg7" class="element">Contact US</a>
+      </h2>
+    </header>
+  </head>
+  <body bgcolor="#101010">
+    <br /><br /><br />
+    <img src="mridul.jpg" alt="This image is not available" />
+    <main>
+      <b>
+        <h1 class="Name">Mridul Jindal</h1>
+        <ul>
+          <li class="Details">Age - 19</li>
+          <li class="Details">Degree - B-Tech</li>
+          <li class="Details">
+            Specialization - Computer Science and Engineering
+          </li>
+        </ul>
+        <br />
+        <hr />
+        <hr />
+        <br />
+        <div class="row">
+          <div class="column1">
+            <table>
+              <tr class="row1">
+                <th class="oddodd">Skills</th>
+              </tr>
+              <tr>
+                <td>C++</td>
+              </tr>
+              <tr>
+                <td class="oddodd">C Programming Language</td>
+              </tr>
+              <tr>
+                <td>Adobe PremierPro</td>
+              </tr>
+              <tr>
+                <td class="oddodd">HTML</td>
+              </tr>
+            </table>
+          </div>
+          <div class="column2">
+            <table>
+              <tr class="row1">
+                <th class="oddodd">Skills Learning</th>
+              </tr>
+              <tr>
+                <td>WebD(CSS, JavaScript)</td>
+              </tr>
+              <tr>
+                <td class="oddodd">Unity</td>
+              </tr>
+              <tr>
+                <td>MATLAB</td>
+              </tr>
+              <tr>
+                <td class="oddodd">Practicing the Above skills...</td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <br />
+        <hr />
+        <hr />
+        <h2 class="Para">About<x class="qwer"> my </x>self</h1>
+        <p class="Text">
+          <div class="uiop">
+            <pl class="data1">
+             <h3 class="head2">ACADEMICS</h3>
+             ->CLASS 10 - MVN - scored 96.4% In Boards.<br> -> CLASS 12 - MVN – scored 96.0% In Boards.<br> -> B.Tech - LNMIIT, Jaipur - Computer Science and Engineering. 
+            <h3 class="head2">EXTRA CURRICULAR</h3>
+             -> Played cricket, badminton, table tennis, lawn tennis at intermediate 
+            level. <br>-> Learn swimming, guitar, and skating professionally. 
+            <h3 class="head2">HOBBIES</h3>
+             -> I enjoy learning about cooking new dishes, I love to cook for my 
+            friends and family. <br>-> I listen to music to boost my mood. <br>-> I am really a big fan of cricket as a sport. I can spend the whole day watching cricket. Also I never miss an opportunity to play cricket with my friends. 
+            <h3 class="head2">INSPIRATION PERSONALITIES</h3>
+             -> Barack Obama <br>-> AB de Villiers <br>->Dhruv Rathee <br>-> Arvind Kejriwal
+             </pl>
+            </div>
+        </p></b>
+    </main>
+  </body>
+</html>
